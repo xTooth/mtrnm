@@ -1,0 +1,17 @@
+C:\Users\Tooth\source\repos\Metronone\Metronone\bin\Debug\Metronone.exe.config
+C:\Users\Tooth\source\repos\Metronone\Metronone\bin\Debug\Metronone.exe
+C:\Users\Tooth\source\repos\Metronone\Metronone\bin\Debug\Metronone.pdb
+C:\Users\Tooth\source\repos\Metronone\Metronone\obj\Debug\Metronone.csprojResolveAssemblyReference.cache
+C:\Users\Tooth\source\repos\Metronone\Metronone\obj\Debug\MainWindow.g.cs
+C:\Users\Tooth\source\repos\Metronone\Metronone\obj\Debug\App.g.cs
+C:\Users\Tooth\source\repos\Metronone\Metronone\obj\Debug\Metronone_MarkupCompile.cache
+C:\Users\Tooth\source\repos\Metronone\Metronone\obj\Debug\Metronone_MarkupCompile.lref
+C:\Users\Tooth\source\repos\Metronone\Metronone\obj\Debug\App.baml
+C:\Users\Tooth\source\repos\Metronone\Metronone\obj\Debug\MainWindow.baml
+C:\Users\Tooth\source\repos\Metronone\Metronone\obj\Debug\Styles.baml
+C:\Users\Tooth\source\repos\Metronone\Metronone\obj\Debug\Metronone.g.resources
+C:\Users\Tooth\source\repos\Metronone\Metronone\obj\Debug\Metronone.Properties.Resources.resources
+C:\Users\Tooth\source\repos\Metronone\Metronone\obj\Debug\Metronone.csproj.GenerateResource.Cache
+C:\Users\Tooth\source\repos\Metronone\Metronone\obj\Debug\Metronone.csproj.CoreCompileInputs.cache
+C:\Users\Tooth\source\repos\Metronone\Metronone\obj\Debug\Metronone.exe
+C:\Users\Tooth\source\repos\Metronone\Metronone\obj\Debug\Metronone.pdb
